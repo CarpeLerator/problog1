@@ -1,26 +1,31 @@
 ---
-title: "PEMFC Impedance Spectroscopy Testing System Design and Fault Diagnosis Method Research"
+title: "Design of Ice-Melting System for Electrified Railway Catenary Based on Adaptive Adjustment System"
 collection: publications
-category: manuscripts
-permalink: /publication/2024-pemfc-fault-diagnosis
-excerpt: 'Research on PEMFC fault diagnosis using impedance spectroscopy testing and neural network-based unsupervised clustering analysis.'
-date: 2024-06-01
-venue: 'Student Research Training Program (SRTP)'
-citation: 'Deng Junhao. (2024). "PEMFC Impedance Spectroscopy Testing System Design and Fault Diagnosis Method Research." <i>SRTP Project</i>.'
+category: patents
+permalink: /publication/2024-ice-melting-system
+excerpt: 'This invention proposes an ice-melting solution for electrified railway catenary in low-temperature snow and ice weather, using an adaptive adjustment system with real-time monitoring and intelligent control.'
+date: 2024-07-01
+venue: 'National Invention Patent'
+patent_number: '202411020394.7'
+citation: 'Deng Junhao. (2024). "Design of Ice-Melting System for Electrized Railway Catenary Based on Adaptive Adjustment System." <i>Patent No. 202411020394.7</i>.'
 ---
 
-## Project Overview
+## Invention Overview
 
-As a core member of the Student Research Training Program (SRTP) at Southwest Jiaotong University, I participated in research on Proton Exchange Membrane Fuel Cell (PEMFC) fault diagnosis.
+This invention addresses the problems of power supply interruption, equipment damage, and inefficient manual ice removal in electrified railway catenary during low-temperature snow and ice weather. The solution utilizes an adaptive adjustment system with real-time monitoring and intelligent control.
 
-## Research Focus
+## Technical Approach
 
-- Analyzed fuel cell faults using impedance spectroscopy testing technology
-- Developed unsupervised clustering analysis using neural network algorithms
-- Created an efficient fault diagnosis model
-- Achieved 80% fault diagnosis accuracy
+- **Real-time Monitoring Module**: Collects multi-point current and temperature data from the catenary
+- **Central Data Processing and Analysis Module**: Optimizes current and voltage parameters
+- **PRC Controller**: Precisely adjusts output frequency and amplitude to achieve uniform Joule heat distribution
 
-## Results
+## Key Features
 
-- Successfully completed the project with 80% fault diagnosis accuracy
-- The analysis model demonstrated effective fault detection capabilities
+- Reduces the risk of wire fusing
+- Improves ice-melting efficiency
+- Enhances safety during operation
+
+## Keywords
+
+Catenary Ice-Melting, Adaptive Control
