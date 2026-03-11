@@ -5,17 +5,18 @@ permalink: /pictures/
 author_profile: true
 ---
 
-Deep in thought
+Wisdom comes from thought
 
 <div class="gallery">
   <img src="/images/my_photo/1.jpg" alt="Photo 1">
-  <img src="/images/my_photo/2.jpg" alt="Photo 2">
+  
   <img src="/images/my_photo/3.jpg" alt="Photo 3">
   <img src="/images/my_photo/4.jpg" alt="Photo 4">
   <img src="/images/my_photo/5.jpg" alt="Photo 5">
   <img src="/images/my_photo/6.jpg" alt="Photo 6">
   <img src="/images/my_photo/7.jpg" alt="Photo 7">
   <img src="/images/my_photo/8.jpg" alt="Photo 8">
+  <img src="/images/my_photo/2.jpg" alt="Photo 2">
 </div>
 
 <style>
@@ -27,7 +28,8 @@ Deep in thought
 }
 .gallery img {
   width: 100%;
-  height: auto;
+  height: 250px;
+  object-fit: cover;
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
