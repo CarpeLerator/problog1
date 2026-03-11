@@ -1,6 +1,7 @@
 ---
 title: "Exploring Optimized Support Vector Machine for EEG Signal-Based Emotion Recognition: A Comparative Analysis and Performance Evaluation"
 collection: publications
+category: conferences
 permalink: /publication/2024-eeg-emotion-recognition
 excerpt: 'This paper presents an optimized Support Vector Machine (SVM) approach for EEG-based emotion recognition, with a focus on depression diagnosis applications.'
 date: 2024-11-01

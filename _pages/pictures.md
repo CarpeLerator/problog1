@@ -17,7 +17,7 @@ Wisdom comes from thought
   <img src="/images/my_photo/7.jpg" alt="Photo 7">
   <img src="/images/my_photo/8.jpg" alt="Photo 8">
   <img src="/images/my_photo/2.jpg" alt="Photo 2">
-  <img src="/images/my_photo/2.jpg" alt="Photo 9">
+  <img src="/images/my_photo/9.jpg" alt="Photo 9">
 </div>
 
 <style>

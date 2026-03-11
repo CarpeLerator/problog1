@@ -1,6 +1,7 @@
 ---
 title: "PEMFC Impedance Spectroscopy Testing System Design and Fault Diagnosis Method Research"
 collection: publications
+category: manuscripts
 permalink: /publication/2024-pemfc-fault-diagnosis
 excerpt: 'Research on PEMFC fault diagnosis using impedance spectroscopy testing and neural network-based unsupervised clustering analysis.'
 date: 2024-06-01

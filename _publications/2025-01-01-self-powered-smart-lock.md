@@ -1,6 +1,7 @@
 ---
 title: "Design of Self-Powered Smart Door Lock System Based on Piezoelectric Ceramics"
 collection: publications
+category: patents
 permalink: /publication/2025-self-powered-smart-lock
 excerpt: 'Design of a self-powered smart door lock system integrating piezoelectric ceramics and electromagnetic induction technology.'
 date: 2025-01-01
