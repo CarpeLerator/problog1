@@ -2,10 +2,20 @@
 permalink: /
 title: "Biography"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
+
+<style>
+.page__title, .page__title-before {
+  color: #ecf0f1 !important;
+  font-size: 2rem !important;
+  font-weight: 700 !important;
+  text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+  margin-bottom: 1.5rem;
+}
+</style>
 
 Hi, I am Deng Junhao. I have been admitted to the School of Integrated Circuits at Shanghai Jiao Tong University (SJTU) to pursue my Ph.D., with a research focus on Artificial Intelligence and Brain-Computer Interfaces (BCI).
 
