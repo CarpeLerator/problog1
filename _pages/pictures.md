@@ -5,6 +5,16 @@ permalink: /pictures/
 author_profile: true
 ---
 
+<style>
+.page__title, .page__title-before {
+  color: var(--global-text-color) !important;
+  font-size: 2rem !important;
+  font-weight: 700 !important;
+  text-shadow: 1px 1px 2px var(--global-text-color);
+  margin-bottom: 1.5rem;
+}
+</style>
+
 Wisdom comes from thought
 
 <div class="gallery">
