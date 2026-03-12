@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
+locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Deng Junhao"
 title_separator          : "-"
@@ -24,7 +24,7 @@ repository               : "dengjunhao/dengjunhao.pages.dev"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Deng Junhao"
+  name             : "Deng Junhao (邓钧豪)"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in AI & BCI @ Shanghai Jiao Tong University"
   location         : "Shanghai, China"
