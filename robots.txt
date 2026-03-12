@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dengjunhao.pages.dev/sitemap.xml
