@@ -1,0 +1,25 @@
+name: IndexNow
+
+on:
+  push:
+    branches: [ master ]
+
+jobs:
+  submit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Submit URLs to IndexNow
+        run: |
+          curl -X POST "https://api.indexnow.org/indexnow" \
+            -H "Content-Type: application/json" \
+            -d '{
+              "host": "dengjunhao.pages.dev",
+              "key": "dengjunhao-indexnow-key",
+              "urlList": [
+                "https://dengjunhao.pages.dev/",
+                "https://dengjunhao.pages.dev/about/",
+                "https://dengjunhao.pages.dev/publications/",
+                "https://dengjunhao.pages.dev/honors/",
+                "https://dengjunhao.pages.dev/pictures/"
+              ]
+            }'
